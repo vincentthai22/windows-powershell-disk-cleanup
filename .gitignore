@@ -1,0 +1,12 @@
+# Device-specific notes, scan output, and reminders: never published
+personal/
+
+# Scan output written outside personal/ via -Out
+*.txt
+*.log
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/settings.local.json
